@@ -1,0 +1,12 @@
+15-11-2025 12:22:31 PM: [/home/lenovo/YouTube/code/python_advanced/010-logging/main.py:32]: INFO ? The value of x is 15
+15-11-2025 12:22:31 PM: [/home/lenovo/YouTube/code/python_advanced/010-logging/helper.py:4]: INFO ? This is from: helper.py
+15-11-2025 12:22:31 PM: [/home/lenovo/YouTube/code/python_advanced/010-logging/main.py:32]: INFO ? The value of x is 15
+15-11-2025 12:22:31 PM: [/home/lenovo/YouTube/code/python_advanced/010-logging/helper.py:4]: INFO ? This is from: helper.py
+15-11-2025 12:22:31 PM: [/home/lenovo/YouTube/code/python_advanced/010-logging/main.py:32]: INFO ? The value of x is 15
+15-11-2025 12:22:31 PM: [/home/lenovo/YouTube/code/python_advanced/010-logging/helper.py:4]: INFO ? This is from: helper.py
+15-11-2025 12:22:31 PM: [/home/lenovo/YouTube/code/python_advanced/010-logging/main.py:32]: INFO ? The value of x is 15
+15-11-2025 12:22:31 PM: [/home/lenovo/YouTube/code/python_advanced/010-logging/helper.py:4]: INFO ? This is from: helper.py
+15-11-2025 12:22:32 PM: [/home/lenovo/YouTube/code/python_advanced/010-logging/main.py:32]: INFO ? The value of x is 15
+15-11-2025 12:22:32 PM: [/home/lenovo/YouTube/code/python_advanced/010-logging/helper.py:4]: INFO ? This is from: helper.py
+15-11-2025 12:22:32 PM: [/home/lenovo/YouTube/code/python_advanced/010-logging/main.py:32]: INFO ? The value of x is 15
+15-11-2025 12:22:32 PM: [/home/lenovo/YouTube/code/python_advanced/010-logging/helper.py:4]: INFO ? This is from: helper.py

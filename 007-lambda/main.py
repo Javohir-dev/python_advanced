@@ -45,3 +45,6 @@ from functools import reduce
 numbers = [1, 2, 3, 4, 5]
 product = reduce(lambda x, y: x * y, numbers)  # reduce ro'yxatdagi barcha elementlarni ketma-ketlikda lambda funksiyasiga o'tkazadi va yakuniy natijani qaytaradi
 print(product)  # Output: 120  ||  1×2×3×4×5=120
+
+def times(x, y):
+    return x * y
